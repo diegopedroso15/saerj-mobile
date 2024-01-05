@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "strict": true
+  },
+  "types": [
+    "react",
+    "react-native"
+  ],
+  "files": [
+    "declarations.d.ts"
+  ],
+  "extends": "expo/tsconfig.base"
+}
